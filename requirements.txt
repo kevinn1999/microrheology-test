@@ -1,3 +1,1 @@
-trackpy
-pims
 pymongo
