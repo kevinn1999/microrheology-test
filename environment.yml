@@ -9,3 +9,4 @@ dependencies:
   - trackpy
   - mongodb
   - pymongo
+  - pims
